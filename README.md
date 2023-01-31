@@ -2,7 +2,7 @@
 
 ![Design preview for the Web Page](preview.png)
 
-Motion animation of a ABB IRB 14000 using direct kinematics.
+Motion animation of a ABB IRB 14000 using git  kinematics.
 
 ## Requirements
 
